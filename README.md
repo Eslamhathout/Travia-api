@@ -1,4 +1,4 @@
-# Trivia API
+# Travia API
 Udacity is invested in creating bonding experiences for its employees and students. A bunch of team members got the idea to hold trivia on a regular basis and created a webpage to manage the trivia app and play the game, but their API experience is limited and still needs to be built out.
 
 Trivia API is a web application that allows people to hold trivia on a regular basis using a web-page to manage the trivia app and play the game.
@@ -28,7 +28,7 @@ Working within a virtual environment is recommended.
 navigate to the `/backend` directory and run:
 
 ```bash
-pip install -r requirements.txt
+pip install -r backend/requirements.txt
 ```
 
 This will install all of the required packages in the `requirements.txt` file.
